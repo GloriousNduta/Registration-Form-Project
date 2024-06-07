@@ -1,0 +1,13 @@
+section{
+    background-color:rgb(233, 228, 228);
+    max-width: 600px;
+    margin: 45px auto;
+    padding: 30px;
+
+}
+body{
+    background-color: white;
+}
+form{
+    font-size: 18px;
+}
